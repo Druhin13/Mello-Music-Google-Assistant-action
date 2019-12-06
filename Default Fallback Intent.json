@@ -1,0 +1,66 @@
+{
+  "id": "00ff121d-2365-4fea-8dc5-0e7428f19d85",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Meditate"
+            },
+            {
+              "title": "Work"
+            },
+            {
+              "title": "Study"
+            },
+            {
+              "title": "Sleep"
+            }
+          ],
+          "lang": "en"
+        },
+        {
+          "type": 0,
+          "condition": "",
+          "speech": [
+            "I didn't get that.\n\nPlease do choose from the following:\n\nMeditate,\nWork,\nStudy, or\nSleep.",
+            "I missed what you said.\n\nPlease do choose from the following:\n\nMeditate,\nWork,\nStudy, or\nSleep.",
+            "Sorry,\n\nPlease do choose from the following:\n\nMeditate,\nWork,\nStudy, or\nSleep.",
+            "Please do choose from the following:\n\nMeditate,\nWork,\nStudy, or\nSleep.",
+            "Sorry, I didn't get that.\n\nPlease do choose from the following:\n\nMeditate,\nWork,\nStudy, or\nSleep.",
+            "Say that one more time?",
+            "I didn't get that.\n\nPlease do choose from the following:\n\nMeditate,\nWork,\nStudy, or\nSleep."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "userSays": [],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "templates": []
+}
