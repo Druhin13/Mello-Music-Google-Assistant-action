@@ -1,0 +1,600 @@
+{
+  "id": "7f76bb62-d890-4ff4-924b-6d5e82124e8e",
+  "name": "work/study",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8476af3a-6405-42c7-a50f-7687c4d4de92",
+          "required": false,
+          "dataType": "@Music_category",
+          "name": "Music_category",
+          "value": "$Music_category",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "condition": "",
+          "payload": {
+            "google": {
+              "richResponse": {
+                "items": [
+                  {
+                    "simpleResponse": {
+                      "textToSpeech": "Okay! Starting 'Work Music'"
+                    }
+                  },
+                  {
+                    "mediaResponse": {
+                      "mediaType": "AUDIO",
+                      "mediaObjects": [
+                        {
+                          "name": "Mello - Work",
+                          "description": "Try to focus on your Work",
+                          "icon": {
+                            "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/work.png",
+                            "accessibilityText": "Mello"
+                          },
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1Y2wpmoOIjKUeHLUd1-RPXQOjAE0Cbkqf&export=download"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "suggestions": [
+                  {
+                    "title": "Meditate"
+                  },
+                  {
+                    "title": "Sleep"
+                  }
+                ]
+              }
+            }
+          },
+          "lang": "en"
+        },
+        {
+          "type": 4,
+          "condition": "",
+          "payload": {
+            "google": {
+              "richResponse": {
+                "items": [
+                  {
+                    "simpleResponse": {
+                      "textToSpeech": "Okay! Starting 'Work Music'"
+                    }
+                  },
+                  {
+                    "mediaResponse": {
+                      "mediaType": "AUDIO",
+                      "mediaObjects": [
+                        {
+                          "name": "Mello - Work",
+                          "description": "Try to focus on your Work",
+                          "icon": {
+                            "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/work.png",
+                            "accessibilityText": "Mello"
+                          },
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=19qQk1YIE5eGMwJ95RKuOx_yRKj4ItZBo&export=download"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "suggestions": [
+                  {
+                    "title": "Meditate"
+                  },
+                  {
+                    "title": "Sleep"
+                  }
+                ]
+              }
+            }
+          },
+          "lang": "en"
+        },
+        {
+          "type": 4,
+          "condition": "",
+          "payload": {
+            "google": {
+              "richResponse": {
+                "items": [
+                  {
+                    "simpleResponse": {
+                      "textToSpeech": "Okay! Starting 'Work Music'"
+                    }
+                  },
+                  {
+                    "mediaResponse": {
+                      "mediaType": "AUDIO",
+                      "mediaObjects": [
+                        {
+                          "name": "Mello - Work",
+                          "description": "Try to focus on your Work",
+                          "icon": {
+                            "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/work.png",
+                            "accessibilityText": "Mello"
+                          },
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1OEp7-0vzzHFZnn0HLggAl44QH-SFcc-R&export=download"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "suggestions": [
+                  {
+                    "title": "Meditate"
+                  },
+                  {
+                    "title": "Sleep"
+                  }
+                ]
+              }
+            }
+          },
+          "lang": "en"
+        },
+        {
+          "type": 4,
+          "condition": "",
+          "payload": {
+            "google": {
+              "richResponse": {
+                "items": [
+                  {
+                    "simpleResponse": {
+                      "textToSpeech": "Okay! Starting 'Work Music'"
+                    }
+                  },
+                  {
+                    "mediaResponse": {
+                      "mediaType": "AUDIO",
+                      "mediaObjects": [
+                        {
+                          "name": "Mello - Work",
+                          "description": "Try to focus on your Work",
+                          "icon": {
+                            "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/work.png",
+                            "accessibilityText": "Mello"
+                          },
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1xwGp_AE0T0gMDTmd9ZbEUY1myk4ehG-d&export=download"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "suggestions": [
+                  {
+                    "title": "Meditate"
+                  },
+                  {
+                    "title": "Sleep"
+                  }
+                ]
+              }
+            }
+          },
+          "lang": "en"
+        },
+        {
+          "type": 4,
+          "condition": "",
+          "payload": {
+            "google": {
+              "richResponse": {
+                "items": [
+                  {
+                    "simpleResponse": {
+                      "textToSpeech": "Okay! Starting 'Work Music'"
+                    }
+                  },
+                  {
+                    "mediaResponse": {
+                      "mediaType": "AUDIO",
+                      "mediaObjects": [
+                        {
+                          "name": "Mello - Work",
+                          "description": "Try to focus on your Work",
+                          "icon": {
+                            "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/work.png",
+                            "accessibilityText": "Mello"
+                          },
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1Pk7o6jc_27toPUV3ueO1Yck988qnEmfw&export=download"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "suggestions": [
+                  {
+                    "title": "Meditate"
+                  },
+                  {
+                    "title": "Sleep"
+                  }
+                ]
+              }
+            }
+          },
+          "lang": "en"
+        },
+        {
+          "type": 4,
+          "condition": "",
+          "payload": {
+            "google": {
+              "richResponse": {
+                "items": [
+                  {
+                    "simpleResponse": {
+                      "textToSpeech": "Okay! Starting 'Work Music'"
+                    }
+                  },
+                  {
+                    "mediaResponse": {
+                      "mediaType": "AUDIO",
+                      "mediaObjects": [
+                        {
+                          "name": "Mello - Work",
+                          "description": "Try to focus on your Work",
+                          "icon": {
+                            "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/work.png",
+                            "accessibilityText": "Mello"
+                          },
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1AiVqN8ukrfIOc-4sHgrHezw5ZCFBibSE&export=download"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "suggestions": [
+                  {
+                    "title": "Meditate"
+                  },
+                  {
+                    "title": "Sleep"
+                  }
+                ]
+              }
+            }
+          },
+          "lang": "en"
+        },
+        {
+          "type": 4,
+          "condition": "",
+          "payload": {
+            "google": {
+              "richResponse": {
+                "items": [
+                  {
+                    "simpleResponse": {
+                      "textToSpeech": "Okay! Starting 'Work Music'"
+                    }
+                  },
+                  {
+                    "mediaResponse": {
+                      "mediaType": "AUDIO",
+                      "mediaObjects": [
+                        {
+                          "name": "Mello - Work",
+                          "description": "Try to focus on your Work",
+                          "icon": {
+                            "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/work.png",
+                            "accessibilityText": "Mello"
+                          },
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=16C2zR7Qy_YASFL0wBtV8z8clBSZFd7xM&export=download"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "suggestions": [
+                  {
+                    "title": "Meditate"
+                  },
+                  {
+                    "title": "Sleep"
+                  }
+                ]
+              }
+            }
+          },
+          "lang": "en"
+        },
+        {
+          "type": 4,
+          "condition": "",
+          "payload": {
+            "google": {
+              "richResponse": {
+                "items": [
+                  {
+                    "simpleResponse": {
+                      "textToSpeech": "Okay! Starting 'Work Music'"
+                    }
+                  },
+                  {
+                    "mediaResponse": {
+                      "mediaType": "AUDIO",
+                      "mediaObjects": [
+                        {
+                          "name": "Mello - Work",
+                          "description": "Try to focus on your Work",
+                          "icon": {
+                            "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/work.png",
+                            "accessibilityText": "Mello"
+                          },
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=17bwVqS-7ihBqYg3LnFqtcwJD5f1kKunX&export=download"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "suggestions": [
+                  {
+                    "title": "Meditate"
+                  },
+                  {
+                    "title": "Sleep"
+                  }
+                ]
+              }
+            }
+          },
+          "lang": "en"
+        },
+        {
+          "type": 4,
+          "condition": "",
+          "payload": {
+            "google": {
+              "richResponse": {
+                "items": [
+                  {
+                    "simpleResponse": {
+                      "textToSpeech": "Okay! Starting 'Work Music'"
+                    }
+                  },
+                  {
+                    "mediaResponse": {
+                      "mediaType": "AUDIO",
+                      "mediaObjects": [
+                        {
+                          "name": "Mello - Work",
+                          "description": "Try to focus on your Work",
+                          "icon": {
+                            "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/work.png",
+                            "accessibilityText": "Mello"
+                          },
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1yo10_QhTE-55DUI1U1Gr8Ob379YoUutu&export=download"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "suggestions": [
+                  {
+                    "title": "Meditate"
+                  },
+                  {
+                    "title": "Sleep"
+                  }
+                ]
+              }
+            }
+          },
+          "lang": "en"
+        },
+        {
+          "type": 4,
+          "condition": "",
+          "payload": {
+            "google": {
+              "richResponse": {
+                "items": [
+                  {
+                    "simpleResponse": {
+                      "textToSpeech": "Okay! Starting 'Work Music'"
+                    }
+                  },
+                  {
+                    "mediaResponse": {
+                      "mediaType": "AUDIO",
+                      "mediaObjects": [
+                        {
+                          "name": "Mello - Work",
+                          "description": "Try to focus on your Work",
+                          "icon": {
+                            "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/work.png",
+                            "accessibilityText": "Mello"
+                          },
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1ZQmNQYJhGokNwBbj1T4X3WrFn3VndhDi&export=download"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "suggestions": [
+                  {
+                    "title": "Meditate"
+                  },
+                  {
+                    "title": "Sleep"
+                  }
+                ]
+              }
+            }
+          },
+          "lang": "en"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "79fddadb-db24-4e0c-8e97-975377e5a210",
+      "data": [
+        {
+          "text": "studying",
+          "alias": "Music_category",
+          "meta": "@Music_category",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3ab0cc2d-f01e-4877-a054-c5ec9813e32e",
+      "data": [
+        {
+          "text": "study",
+          "alias": "Music_category",
+          "meta": "@Music_category",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "76c2e10f-8452-4638-a0e2-272274a3eac7",
+      "data": [
+        {
+          "text": "work",
+          "alias": "Music_category",
+          "meta": "@Music_category",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "26257440-0406-4dd4-a26f-cd233266f926",
+      "data": [
+        {
+          "text": "I am ",
+          "userDefined": false
+        },
+        {
+          "text": "working",
+          "alias": "Music_category",
+          "meta": "@Music_category",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1bca0ae0-479e-433f-9b8b-80895bcda460",
+      "data": [
+        {
+          "text": "I need to do my ",
+          "userDefined": false
+        },
+        {
+          "text": "work",
+          "alias": "Music_category",
+          "meta": "@Music_category",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "713e85bf-b1f7-4c64-98dd-9d88cd8192ea",
+      "data": [
+        {
+          "text": "work",
+          "alias": "Music_category",
+          "meta": "@Music_category",
+          "userDefined": false
+        },
+        {
+          "text": " music",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3bca9572-cdb2-4663-a312-db1473514e28",
+      "data": [
+        {
+          "text": "working",
+          "alias": "Music_category",
+          "meta": "@Music_category",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b122bc42-989f-4775-a8a0-73aff904ab4a",
+      "data": [
+        {
+          "text": "Play some music related to ",
+          "userDefined": false
+        },
+        {
+          "text": "work",
+          "alias": "Music_category",
+          "meta": "@Music_category",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "templates": []
+}
