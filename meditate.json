@@ -3,6 +3,8 @@
   "name": "meditate",
   "auto": true,
   "contexts": [],
+  
+  
   "responses": [
     {
       "resetContexts": false,
@@ -24,6 +26,8 @@
           "isList": false
         }
       ],
+      
+      
       "messages": [
         {
           "type": 4,
@@ -54,6 +58,7 @@
                     }
                   }
                 ],
+                
                 "suggestions": [
                   {
                     "title": "Work"
@@ -67,6 +72,7 @@
           },
           "lang": "en"
         },
+        
         {
           "type": 4,
           "condition": "",
@@ -96,6 +102,7 @@
                     }
                   }
                 ],
+                
                 "suggestions": [
                   {
                     "title": "Work"
@@ -109,6 +116,7 @@
           },
           "lang": "en"
         },
+        
         {
           "type": 4,
           "condition": "",
@@ -138,6 +146,7 @@
                     }
                   }
                 ],
+                
                 "suggestions": [
                   {
                     "title": "Work"
@@ -151,6 +160,7 @@
           },
           "lang": "en"
         },
+        
         {
           "type": 4,
           "condition": "",
@@ -180,6 +190,7 @@
                     }
                   }
                 ],
+                
                 "suggestions": [
                   {
                     "title": "Work"
@@ -193,6 +204,7 @@
           },
           "lang": "en"
         },
+        
         {
           "type": 4,
           "condition": "",
@@ -222,6 +234,7 @@
                     }
                   }
                 ],
+                
                 "suggestions": [
                   {
                     "title": "Work"
@@ -235,6 +248,7 @@
           },
           "lang": "en"
         },
+        
         {
           "type": 4,
           "condition": "",
@@ -264,6 +278,7 @@
                     }
                   }
                 ],
+                
                 "suggestions": [
                   {
                     "title": "Work"
@@ -277,6 +292,7 @@
           },
           "lang": "en"
         },
+        
         {
           "type": 4,
           "condition": "",
@@ -306,6 +322,7 @@
                     }
                   }
                 ],
+                
                 "suggestions": [
                   {
                     "title": "Work"
@@ -319,6 +336,7 @@
           },
           "lang": "en"
         },
+        
         {
           "type": 4,
           "condition": "",
@@ -348,6 +366,7 @@
                     }
                   }
                 ],
+                
                 "suggestions": [
                   {
                     "title": "Work"
@@ -361,6 +380,7 @@
           },
           "lang": "en"
         },
+        
         {
           "type": 4,
           "condition": "",
@@ -390,6 +410,7 @@
                     }
                   }
                 ],
+                
                 "suggestions": [
                   {
                     "title": "Work"
@@ -403,6 +424,7 @@
           },
           "lang": "en"
         },
+        
         {
           "type": 4,
           "condition": "",
@@ -432,6 +454,7 @@
                     }
                   }
                 ],
+                
                 "suggestions": [
                   {
                     "title": "Work"
@@ -450,6 +473,8 @@
       "speech": []
     }
   ],
+  
+  
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
