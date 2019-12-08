@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "",
+          "id": "b1e33876-7146-4bbf-ad3e-d08beba5cbac",
           "required": false,
           "dataType": "@Music_category",
           "name": "Music_category",
@@ -34,7 +34,7 @@
                 "items": [
                   {
                     "simpleResponse": {
-                      "textToSpeech": "Okay then! Starting 'Meditation Music'"
+                      "textToSpeech": "Okay! Starting 'Meditation Music'"
                     }
                   },
                   {
@@ -48,7 +48,7 @@
                             "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/meditate.png",
                             "accessibilityText": "Mello"
                           },
-                          "contentUrl": "https://firebasestorage.googleapis.com/v0/b/mello-23652.appspot.com/o/Meditate%2FMeditate%202.mp3?alt=media&token=189bc87b-aff8-49f5-8f0a-820711eda2ef"
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1aAi6RWOoOxAYUSDtE99M_xg9ToJ4s0H6&export=download"
                         }
                       ]
                     }
@@ -57,9 +57,6 @@
                 "suggestions": [
                   {
                     "title": "Work"
-                  },
-                  {
-                    "title": "Study"
                   },
                   {
                     "title": "Sleep"
@@ -93,7 +90,7 @@
                             "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/meditate.png",
                             "accessibilityText": "Mello"
                           },
-                          "contentUrl": "https://firebasestorage.googleapis.com/v0/b/mello-23652.appspot.com/o/Meditate%2FMeditate%201.mp3?alt=media&token=0846b279-d459-44b5-836b-1063f1f98893"
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1GoZtHQk2n1Jt_ePk6yg9o6M49EWsbViL&export=download"
                         }
                       ]
                     }
@@ -102,9 +99,6 @@
                 "suggestions": [
                   {
                     "title": "Work"
-                  },
-                  {
-                    "title": "Study"
                   },
                   {
                     "title": "Sleep"
@@ -138,7 +132,7 @@
                             "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/meditate.png",
                             "accessibilityText": "Mello"
                           },
-                          "contentUrl": "https://firebasestorage.googleapis.com/v0/b/mello-23652.appspot.com/o/Meditate%2FMeditate%203.mp3?alt=media&token=3b0fdf9e-8210-4f35-acd4-00f4962c89dd"
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1YF8Q-D9YcmLPhSZekoFcPYqBeyLyrFNR&export=download"
                         }
                       ]
                     }
@@ -147,9 +141,6 @@
                 "suggestions": [
                   {
                     "title": "Work"
-                  },
-                  {
-                    "title": "Study"
                   },
                   {
                     "title": "Sleep"
@@ -183,7 +174,7 @@
                             "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/meditate.png",
                             "accessibilityText": "Mello"
                           },
-                          "contentUrl": "https://firebasestorage.googleapis.com/v0/b/mello-23652.appspot.com/o/Meditate%2FMeditate%204.mp3?alt=media&token=cfb97553-81a8-4eae-88b5-0e026659ad28"
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=11KAtTaoY9LBLlf5uNUk8ZlwCzJ_wZo54&export=download"
                         }
                       ]
                     }
@@ -192,9 +183,6 @@
                 "suggestions": [
                   {
                     "title": "Work"
-                  },
-                  {
-                    "title": "Study"
                   },
                   {
                     "title": "Sleep"
@@ -228,7 +216,7 @@
                             "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/meditate.png",
                             "accessibilityText": "Mello"
                           },
-                          "contentUrl": "https://firebasestorage.googleapis.com/v0/b/mello-23652.appspot.com/o/Meditate%2FMeditate%205.mp3?alt=media&token=cd40e4c2-199a-4faf-96d2-ac4d89905646"
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1LnztClKoAQ21-rAMUKiIDkObwzuIkBiH&export=download"
                         }
                       ]
                     }
@@ -237,9 +225,6 @@
                 "suggestions": [
                   {
                     "title": "Work"
-                  },
-                  {
-                    "title": "Study"
                   },
                   {
                     "title": "Sleep"
@@ -273,7 +258,7 @@
                             "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/meditate.png",
                             "accessibilityText": "Mello"
                           },
-                          "contentUrl": "https://firebasestorage.googleapis.com/v0/b/mello-23652.appspot.com/o/Meditate%2FMeditate%206.mp3?alt=media&token=1f885d1c-1cae-4db9-b8a8-4593773a4889"
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1KzW_qs49H9oNBdFbvi0KsVYFkf-HgYvk&export=download"
                         }
                       ]
                     }
@@ -282,9 +267,6 @@
                 "suggestions": [
                   {
                     "title": "Work"
-                  },
-                  {
-                    "title": "Study"
                   },
                   {
                     "title": "Sleep"
@@ -318,7 +300,7 @@
                             "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/meditate.png",
                             "accessibilityText": "Mello"
                           },
-                          "contentUrl": "https://firebasestorage.googleapis.com/v0/b/mello-23652.appspot.com/o/Meditate%2FMeditate%207.mp3?alt=media&token=5a847bdd-7f84-4003-a11f-21014e65db9e"
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1pn6iDonyOTLlcNisPFMNg8okMDSriSKF&export=download"
                         }
                       ]
                     }
@@ -327,9 +309,6 @@
                 "suggestions": [
                   {
                     "title": "Work"
-                  },
-                  {
-                    "title": "Study"
                   },
                   {
                     "title": "Sleep"
@@ -363,7 +342,7 @@
                             "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/meditate.png",
                             "accessibilityText": "Mello"
                           },
-                          "contentUrl": "https://firebasestorage.googleapis.com/v0/b/mello-23652.appspot.com/o/Meditate%2FMeditate%208.mp3?alt=media&token=bf612492-bb61-4a5d-aecb-54bdecf20b92"
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1YNKeuMC1GZvrtOx0nYjkIqRT6qm2C9vQ&export=download"
                         }
                       ]
                     }
@@ -372,9 +351,6 @@
                 "suggestions": [
                   {
                     "title": "Work"
-                  },
-                  {
-                    "title": "Study"
                   },
                   {
                     "title": "Sleep"
@@ -408,7 +384,7 @@
                             "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/meditate.png",
                             "accessibilityText": "Mello"
                           },
-                          "contentUrl": "https://firebasestorage.googleapis.com/v0/b/mello-23652.appspot.com/o/Meditate%2FMeditate%209.mp3?alt=media&token=6b2ad25e-6f89-4be6-8158-96f4fe7a46e3"
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1YNKeuMC1GZvrtOx0nYjkIqRT6qm2C9vQ&export=download"
                         }
                       ]
                     }
@@ -417,9 +393,6 @@
                 "suggestions": [
                   {
                     "title": "Work"
-                  },
-                  {
-                    "title": "Study"
                   },
                   {
                     "title": "Sleep"
@@ -453,7 +426,7 @@
                             "url": "https://raw.githubusercontent.com/Druhin13/asset-test/master/mello%20icons/meditate.png",
                             "accessibilityText": "Mello"
                           },
-                          "contentUrl": "https://firebasestorage.googleapis.com/v0/b/mello-23652.appspot.com/o/Meditate%2FMeditate%2010.mp3?alt=media&token=150b1117-16c5-45e9-857b-c1b09f7aa518"
+                          "contentUrl": "https://drive.google.com/uc?authuser=2&id=1CJgxMvJC8prI6c7KSyNJFAYFjgvTQ_Et&export=download"
                         }
                       ]
                     }
@@ -462,9 +435,6 @@
                 "suggestions": [
                   {
                     "title": "Work"
-                  },
-                  {
-                    "title": "Study"
                   },
                   {
                     "title": "Sleep"
@@ -514,25 +484,6 @@
       "data": [
         {
           "text": "I love to ",
-          "userDefined": false
-        },
-        {
-          "text": "Meditate",
-          "alias": "Music_category",
-          "meta": "@Music_category",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0,
-      "updated": 0,
-      "isAuto": false
-    },
-    {
-      "id": "04075bf8-3e7c-4978-9a56-7475f68feac0",
-      "data": [
-        {
-          "text": "I want to ",
           "userDefined": false
         },
         {
